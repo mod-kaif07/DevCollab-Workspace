@@ -140,10 +140,3 @@ Refer to `backend/routes/` for concrete route names: [backend/routes/user.routes
 **License**
 
 - Add your preferred license file at the repo root (e.g., `LICENSE`) and reference it here.
-
-**Resume Highlights**
-
-- Led development of a full-stack collaboration platform, designing RESTful APIs and realtime sync to enable seamless team workflows.
-- Implemented robust JWT-based authentication and role-based access control to secure user data and protected endpoints.
-- Integrated AI-driven features via backend services to generate contextual project summaries and recommendations for users.
-- Optimized backend performance with Redis caching and modular service-layer architecture, improving responsiveness under load.
